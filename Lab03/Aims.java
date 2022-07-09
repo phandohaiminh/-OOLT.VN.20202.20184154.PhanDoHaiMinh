@@ -1,5 +1,5 @@
 
-public class Aims { fffbfb
+public class Aims { 
 
 	public static void main(String[] args) {
 		
